@@ -1,5 +1,5 @@
 {
-  "PQQ1": {
+  "P001": {
     "name": "Ananya Sharma",
     "city": "Guwahati",
     "age": 28,
@@ -9,7 +9,7 @@
     "bmi": 33.06,
     "verdict": "Obese"
   },
-  "PQQ2": {
+  "P002": {
     "name": "Ravi Mehta",
     "city": "Mumbai",
     "age": 35,
@@ -19,7 +19,7 @@
     "bmi": 27.76,
     "verdict": "Overweight"
   },
-  "PQQ3": {
+  "P003": {
     "name": "Sneha Kulkarni",
     "city": "Pune",
     "age": 22,
@@ -29,7 +29,7 @@
     "bmi": 17.58,
     "verdict": "Underweight"
   },
-  "PQQ4": {
+  "P004": {
     "name": "Arjun Verma",
     "city": "Bangalore",
     "age": 40,
@@ -39,7 +39,7 @@
     "bmi": 29.32,
     "verdict": "Overweight"
   },
-  "PQQ5": {
+  "P005": {
     "name": "Neha Sinha",
     "city": "Kolkata",
     "age": 30,
